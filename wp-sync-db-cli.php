@@ -1,11 +1,12 @@
 <?php
 /*
 Plugin Name: WP Sync DB CLI
-GitHub Plugin URI: slang800/wp-sync-db-cli
+GitHub Plugin URI: hrsetyono/wp-sync-db-cli
 Description: An extension to WP Sync DB, allows you to execute migrations using a function call or via WP-CLI
-Author: Sean Lang
+Author: Pixel Studio
 Version: 1.0b1
-Author URI: http://slang.cx
+Plugin URI: https://github.com/hrsetyono/wp-sync-db-cli
+Author URI: https://pixelstudio.id
 Network: True
 */
 
